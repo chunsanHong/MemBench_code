@@ -1,4 +1,5 @@
 # MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models
+>This repository contains the official implementation for the paper [MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models](https://arxiv.org/abs/2407.17095) <br> by [Chunsan Hong](https://sites.google.com/view/chunsanhong), [Tae-Hyun Oh](https://ami.postech.ac.kr/members/tae-hyun-oh), [Minhuyk Sung](https://mhsung.github.io/).
 
 ## Prerequisites
 
