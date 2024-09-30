@@ -1,0 +1,13 @@
+sscd_disc_large.torchscript.pt
+aesthetic/ava+logos-l14-reluMSE.pth
+aesthetic/ava+logos-l14-linearMSE.pth
+exps_mitigation/*
+exps_generation/*
+make_url_data.py
+alter_urls_2.pkl
+exp_final
+exp_final/*
+*.sh
+google_api.py
+captions_val2017.json
+
